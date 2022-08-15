@@ -1,4 +1,4 @@
-Terraform Module to provision an VPC wit three Public and Private Subnets.
+Terraform Module to provision an VPC with three Public and Private Subnets.
 
 Not intended for production use. It is an example module.
 
